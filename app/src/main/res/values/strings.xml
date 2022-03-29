@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultiChat</string>
+
+    <string-array name="carreras">
+        <item>LMAD</item>
+        <item>LSTI</item>
+        <item>LCC</item>
+        <item>LA</item>
+        <item>LF</item>
+        <item>LM</item>
+    </string-array>
+</resources>
